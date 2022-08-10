@@ -1,0 +1,60 @@
+.container {
+  background-color: rgba(166, 171, 177, 0.955);
+
+  margin-left: 1px;
+  margin-right: 1px;
+}
+.product-card {
+  background-color:white;
+  margin-top: 10px;
+}
+.product1-card {
+  background-color:white;
+  margin-top: 10px;
+}
+.product2-card {
+  background-color:white;
+  margin-top: 10px;
+}
+.products1-card {
+  background-color: white;
+  max-width: 400px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+.products2-card {
+  background-color: white;
+
+  max-width: 400px;
+
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+.products3-card {
+  background-color: white;
+  max-width: 400px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.product-header-image {
+  background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+  background-size: cover;
+}
+.ui {
+  background-color:white;
+  text-align: center;
+}
+
+.likebt {
+  border: none;
+  cursor: pointer;
+}
+.sharebt {
+  border: none;
+  cursor: pointer;
+}
+.uii {
+  display: flex;
+  gap: 50px;
+}
